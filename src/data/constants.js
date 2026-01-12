@@ -5,9 +5,9 @@ export const DATA = {
   url: "https://example.com",
   location: "Kampala, UG",
   description:
-    "Full Stack Software Engineer | Building modern web apps with clean code and scalable architecture.",
+    "Junior Frontend Engineer | Building modern web apps with clean code and scalable architecture.",
   summary:
-    "I’m a full stack software engineer focused on building and scaling real-world web applications. With a background in computer science, I enjoy combining clean code with thoughtful design to create great user experiences",
+    "I’m a Frontend Engineer passionate about building modern, responsive web applications. With a foundation in computer science, I enjoy combining clean, maintainable code with thoughtful design to create user-friendly interfaces.",
   avatarUrl: "/aziz1.png",
   skills: [
     "React",
@@ -22,6 +22,12 @@ export const DATA = {
     "CSS3",
     "Git",
     "JWT",
+    "Responsive Design",
+    "REST APIs",
+    "Redux",
+    "JavaScript (ES6+)",
+    "Figma"
+
 
   ],
   navbar: [

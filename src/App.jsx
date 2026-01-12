@@ -48,18 +48,6 @@ export default function App() {
         </div>
       </section>
 
-      {/* About Section */}
-      <section id="about">
-        <BlurFade delay={0.5} inView>
-          <div className="space-y-3">
-            <h2 className="text-xl font-bold">About</h2>
-            <div className="prose max-w-full text-pretty font-sans text-sm text-zinc-500 dark:text-zinc-400">
-              <p>{DATA.summary}</p>
-            </div>
-          </div>
-        </BlurFade>
-      </section>
-
       {/* Work Experience */}
       <section id="work">
         <div className="flex min-h-0 flex-col gap-y-3">
@@ -176,7 +164,7 @@ export default function App() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-zinc-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-zinc-400">
-                Feel free to connect with me on social media. Keep building. Keep growing. Let's connect over socials!
+Let’s connect! I’m always eager to collaborate, share ideas, and grow. Feel free to reach out on social media.
               </p>
             </div>
           </BlurFade>
